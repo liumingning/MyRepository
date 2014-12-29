@@ -1,5 +1,0 @@
-MyRepository
-============
-
-test
-firtst
